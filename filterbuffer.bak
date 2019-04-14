@@ -20,7 +20,7 @@ U 1 1 5CB0535F
 P 5450 2350
 F 0 "C1" H 5565 2396 50  0000 L CNN
 F 1 "CP1" H 5565 2305 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D35.0mm_P10.00mm_SnapIn" H 5450 2350 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D40.0mm_P10.00mm_3pin_SnapIn" H 5450 2350 50  0001 C CNN
 F 3 "~" H 5450 2350 50  0001 C CNN
 	1    5450 2350
 	1    0    0    -1  
@@ -98,7 +98,7 @@ U 1 1 5CB0E630
 P 4200 1200
 F 0 "J10" V 4166 1012 50  0000 R CNN
 F 1 "Conn_01x02" V 4075 1012 50  0000 R CNN
-F 2 "Sockets_MOLEX_KK-System:Socket_MOLEX-KK-RM2-54mm_Lock_2pin_straight" H 4200 1200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4200 1200 50  0001 C CNN
 F 3 "~" H 4200 1200 50  0001 C CNN
 	1    4200 1200
 	0    -1   -1   0   
@@ -175,7 +175,7 @@ U 1 1 5CB0C1A5
 P 4500 1200
 F 0 "J13" V 4466 1012 50  0000 R CNN
 F 1 "Conn_01x02" V 4375 1012 50  0000 R CNN
-F 2 "Sockets_MOLEX_KK-System:Socket_MOLEX-KK-RM2-54mm_Lock_2pin_straight" H 4500 1200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4500 1200 50  0001 C CNN
 F 3 "~" H 4500 1200 50  0001 C CNN
 	1    4500 1200
 	0    -1   -1   0   
@@ -186,7 +186,7 @@ U 1 1 5CB1AF7F
 P 3900 1200
 F 0 "J7" V 3866 1012 50  0000 R CNN
 F 1 "Conn_01x02" V 3775 1012 50  0000 R CNN
-F 2 "Sockets_MOLEX_KK-System:Socket_MOLEX-KK-RM2-54mm_Lock_2pin_straight" H 3900 1200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3900 1200 50  0001 C CNN
 F 3 "~" H 3900 1200 50  0001 C CNN
 	1    3900 1200
 	0    -1   -1   0   
@@ -197,7 +197,7 @@ U 1 1 5CB1B6BE
 P 3600 1200
 F 0 "J4" V 3566 1012 50  0000 R CNN
 F 1 "Conn_01x02" V 3475 1012 50  0000 R CNN
-F 2 "Sockets_MOLEX_KK-System:Socket_MOLEX-KK-RM2-54mm_Lock_2pin_straight" H 3600 1200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3600 1200 50  0001 C CNN
 F 3 "~" H 3600 1200 50  0001 C CNN
 	1    3600 1200
 	0    -1   -1   0   
@@ -208,7 +208,7 @@ U 1 1 5CB20634
 P 4950 1200
 F 0 "J15" V 4916 1012 50  0000 R CNN
 F 1 "Conn_01x02" V 4825 1012 50  0000 R CNN
-F 2 "Sockets_MOLEX_KK-System:Socket_MOLEX-KK-RM2-54mm_Lock_2pin_straight" H 4950 1200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4950 1200 50  0001 C CNN
 F 3 "~" H 4950 1200 50  0001 C CNN
 	1    4950 1200
 	0    -1   -1   0   
@@ -398,7 +398,7 @@ U 1 1 5CB95510
 P 3500 3200
 F 0 "J3" V 3373 3280 50  0000 L CNN
 F 1 "Conn_01x02" V 3464 3280 50  0000 L CNN
-F 2 "Sockets_MOLEX_KK-System:Socket_MOLEX-KK-RM2-54mm_Lock_2pin_straight" H 3500 3200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3500 3200 50  0001 C CNN
 F 3 "~" H 3500 3200 50  0001 C CNN
 	1    3500 3200
 	0    1    1    0   
@@ -411,7 +411,7 @@ U 1 1 5CBB45AB
 P 3800 3200
 F 0 "J6" V 3673 3280 50  0000 L CNN
 F 1 "Conn_01x02" V 3764 3280 50  0000 L CNN
-F 2 "Sockets_MOLEX_KK-System:Socket_MOLEX-KK-RM2-54mm_Lock_2pin_straight" H 3800 3200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3800 3200 50  0001 C CNN
 F 3 "~" H 3800 3200 50  0001 C CNN
 	1    3800 3200
 	0    1    1    0   
@@ -422,7 +422,7 @@ U 1 1 5CBB7D44
 P 4100 3200
 F 0 "J9" V 3973 3280 50  0000 L CNN
 F 1 "Conn_01x02" V 4064 3280 50  0000 L CNN
-F 2 "Sockets_MOLEX_KK-System:Socket_MOLEX-KK-RM2-54mm_Lock_2pin_straight" H 4100 3200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4100 3200 50  0001 C CNN
 F 3 "~" H 4100 3200 50  0001 C CNN
 	1    4100 3200
 	0    1    1    0   
@@ -433,7 +433,7 @@ U 1 1 5CBBD7E2
 P 4400 3200
 F 0 "J12" V 4273 3280 50  0000 L CNN
 F 1 "Conn_01x02" V 4364 3280 50  0000 L CNN
-F 2 "Sockets_MOLEX_KK-System:Socket_MOLEX-KK-RM2-54mm_Lock_2pin_straight" H 4400 3200 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4400 3200 50  0001 C CNN
 F 3 "~" H 4400 3200 50  0001 C CNN
 	1    4400 3200
 	0    1    1    0   
