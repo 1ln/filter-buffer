@@ -1,0 +1,29 @@
+Filterbuffer pcb
+
+Hardware Design: 
+
+Dan Olson 
+Copyright 2019
+
+This board is currently is testing phase, use at your own risk.
+
+This is a board designed to facilitate the filtering of high frequency line noise spikes and provide a voltage buffer to 48v power supplies. Is is meant to connect to power mosfets.
+
+Typical uses:
+
+Audio equipment
+Industrial control systems
+Pinball machines
+
+Features:
+
+Two large capacitor units.
+48v power led.
+In-rush current limitor.
+250v safety fuse.
+Two independent non-filtered sections for powering 12v and 5v systems.
+
+TODO:
+
+Add bleedoff resistor or circuit.
+
